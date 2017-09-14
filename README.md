@@ -14,8 +14,6 @@ The final part of this app will prevent the user from getting lost by sharing th
 <img src="https://user-images.githubusercontent.com/23315228/30443163-82fd9a50-9976-11e7-8383-8607c7293aa4.png">
 </p>
 
-![screen shot 2017-09-14 at 18 01 14](https://user-images.githubusercontent.com/23315228/30443163-82fd9a50-9976-11e7-8383-8607c7293aa4.png)
-
 ## Author
 
 * **Author-name:** Michael Brennan
