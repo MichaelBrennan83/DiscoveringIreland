@@ -5,8 +5,12 @@ We all love to take a photo even when there on holidays, this app will also prov
 The final part of this app will prevent the user from getting lost by sharing their current location while they navigate through Ireland.
 
 ## Built With
+-[JSON data stores names, descriptions, images and URLs.](http://demo2167950.mockable.io/introducingIreland)<br />
+-[Xcode Version 8.3.3.](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12)
 
-## Screen Shots
+## Screenshots
+
+![screen shot 2017-09-14 at 18 01 14](https://user-images.githubusercontent.com/23315228/30443163-82fd9a50-9976-11e7-8383-8607c7293aa4.png)
 
 ## Author
 
@@ -15,9 +19,6 @@ The final part of this app will prevent the user from getting lost by sharing th
 * **Github-username:** [MichaelBrennan83](https://github.com/MichaelBrennan83)
 * **Copyright:** 2017 Michael Brennan
 * **Category:** Development
-
-## Terms of Use
-This Project was developed as part of my college assigmnet, can be used for any person looking to start a small business or to help someone working on a similar project.
 
 ## License
 
